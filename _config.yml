@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Current Research Projects
-tagline:             U.Va. Department of Orthopedic Surgery
-url:                 http://getpoole.com
+title:               Department of Orthopaedic Surgery
+tagline:             Current Research Projects
+url:
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +20,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Scott Bailey - Scholars' Lab, U.Va.
+  url:               http://scholarslab.org/
+  email:             scholarslab@virginia.edu
 
 # Custom vars
-version:             2.0.0
+version:             1.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/csbailey5t/ortho
