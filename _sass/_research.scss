@@ -2,7 +2,8 @@
 
 .box {
   // background-color: #3A98FF;
-  background-color: #5482AB;
+  // background-color: #5482AB;
+  background-color: #002654;
   margin-bottom: .5em;
   padding: .5em;
   position: relative;
@@ -17,13 +18,27 @@
 
   small {
     font-size: 90%;
-    color: #999;
+    color: #F36F21;
   }
+}
+
+.masthead-title a {
+  color: #3C58AD;
+}
+
+.logo {
+  height: 80px;
+  float: left;
+}
+
+.words {
+  margin-left: 6em;
+  margin-top: .5em;
 }
 
 .page {
 
   .page-title {
-    border-bottom: 1px solid #999; 
+    border-bottom: 1px solid #999;
   }
 }
