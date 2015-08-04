@@ -1,4 +1,4 @@
 ---
-layout: page
+layout: pediatric
 title: Pediatric
 ---

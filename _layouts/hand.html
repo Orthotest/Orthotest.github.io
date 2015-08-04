@@ -3,8 +3,8 @@ layout: default
 ---
 
 <article class="page">
-  <h1 class="page-title">{{ page.hand }}</h1>
-  {% for post in site.categories.foot %}
+  <h1 class="page-title">{{ page.title }}</h1>
+  {% for post in site.categories.hand %}
     <article class="post box">
       <h1 class="post-title">
         <a href="{{ site.baseurl }}{{ post.url }}">

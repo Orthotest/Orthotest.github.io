@@ -1,4 +1,4 @@
 ---
-layout: page
+layout: hand
 title: Hand
 ---
