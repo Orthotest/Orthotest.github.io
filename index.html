@@ -1,0 +1,19 @@
+---
+layout: default
+title: Home
+exclude_from_nav: true
+---
+
+<div class="posts">
+  {% for page in site.pages %}
+    {% unless page.exclude_from_nav %}
+      <article class="post box">
+        <h1 class="post-title">
+          <a href="{{ site.baseurl }}{{ page.url }}">
+            {{ page.title }}
+          </a>
+        </h1>
+      </article>
+    {% endunless %}
+  {% endfor %}
+</div>
