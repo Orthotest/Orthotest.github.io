@@ -6,4 +6,5 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">Study added: {{ page.date | date_to_string }}</time>
   {{ content }}
+  <a href="/{{ page.category | prepend: site.baseurl }}">Return to category</a>
 </article>
