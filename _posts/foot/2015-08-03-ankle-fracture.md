@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Hallux Rigidus
+title: Ankle Fracture
 category: foot
-tag: foot
+tag: ankle
 ---
 ## Inclusion/Exclusion Criteria
 
