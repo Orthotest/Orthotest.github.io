@@ -5,7 +5,8 @@ exclude_from_nav: true
 ---
 
 <div class="posts">
-  {% for page in site.pages %}
+  {% assign areas = site.pages | sort: 'title' %}
+  {% for page in areas %}
     {% unless page.exclude_from_nav %}
     <a href="{{ site.baseurl }}{{ page.url }}">
       <article class="post box">
