@@ -5,12 +5,12 @@ layout: default
 <article class="page">
   <h1 class="page-title">{{ page.title }}</h1>
   {% for post in site.categories.spine %}
+  <a href="{{ site.baseurl }}{{ post.url }}">
     <article class="post box">
       <h2 class="post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">
           {{ post.title }}
-        </a>
       </h2>
     </article>
+  </a>
   {% endfor %}
 </article>
