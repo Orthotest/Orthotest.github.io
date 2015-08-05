@@ -34,9 +34,29 @@
   margin-top: .5em;
 }
 
+main h3 {
+  color: #F36F21;
+}
+
+main {
+  clear: both;
+}
+
 .page {
 
   .page-title {
     border-bottom: 1px solid #999;
+  }
+}
+
+@media (min-width: 400px) {
+  .masthead-title {
+    font-size: 1.6rem;
+  }
+}
+
+@media (min-width: 654px) {
+  .words {
+    margin-top: 1.5em;
   }
 }
