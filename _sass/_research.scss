@@ -35,7 +35,7 @@
   margin-top: .5em;
 }
 
-main h3 {
+.tagline {
   color: #F36F21;
 }
 
@@ -53,6 +53,10 @@ main {
 @media (min-width: 400px) {
   .masthead-title {
     font-size: 1.6rem;
+  }
+
+  .tagline {
+    font-size: 1.5rem;
   }
 }
 
