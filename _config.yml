@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Department of Orthopaedic Surgery
-tagline:             Current Research Projects
+title:               Ortho Research
+tagline:             
 url:
 paginate:            1
 baseurl:             ""
