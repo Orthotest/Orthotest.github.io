@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Ortho Research
-tagline:             
+tagline:             Clinical Trials
 url:
 paginate:            1
 baseurl:             ""

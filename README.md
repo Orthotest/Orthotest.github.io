@@ -25,4 +25,14 @@ Continue updating the rest of the content of the document and delete any unused 
 
 ## Adding the new study to the app
 
-After you've saved all of your changes, you need to update the app with the new content. In the Github desktop application, in the window where you see the changes that you've made, add a commit message describing your changes (ex. Added new study). Hit the "Commit" button to confirm your changes. Then, hit "Sync" in the upper-right hand corner. This uploads your changes to the Github repository where the app is hosted.   
+After you've saved all of your changes, you need to update the app with the new content. In the Github desktop application, in the window where you see the changes that you've made, add a commit message describing your changes (ex. "Added new study"). Hit the "Commit" button to confirm your changes. Then, hit "Sync" in the upper-right hand corner. This uploads your changes to the Github repository where the app is hosted.  
+
+## Current Categories (categories)
+
+- foot
+- hand
+- pediatrics
+- recon
+- spine
+- sports
+- trauma
