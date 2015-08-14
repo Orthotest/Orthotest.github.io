@@ -39,3 +39,9 @@ After you've saved all of your changes, you need to update the app with the new 
 ## Editing an existing study
 
 In the Github application, click "Sync" to make sure that your local copy of the files matches the remote repository. In your text editor, select the file you wish to edit and make any desired changes. After you've finished, save the file, then return to the Github application. Add a commit message and hit the "Commit" button to confirm your changes. Click "Sync" to copy those changes to the Github repository.
+
+## Removing an existing study
+
+In order to remove a study from the app, first go to the Github application. Hit "Sync" to make sure your local copy matches the remote copy. Then, delete the study file that you wish to remove. It will be a `.md` file within the `_posts/category` folder. For example, if you wanted to delete a file in the Foot & Ankle category, you would go to the `_posts/foot/` folder and delete the file with the name matching the research study.
+
+Once the file is deleted, return to the Github application. Write a commit message and hit "Commit" to confirm your changes, then hit "Sync" to copy those changes to the Github repository. 
