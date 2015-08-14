@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Sesamoiditis
-category: foot
+title: DeNOVO Stratified
+category: sports
 ---
 
 ## Inclusion/Exclusion Criteria
 
-- inclusion criterial 1
+- item 1
 - item 2
 - item 3
 

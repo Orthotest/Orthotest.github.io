@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Hallux Rigidus
+title: Ankle LEAP
 category: foot
 ---
+
 ## Inclusion/Exclusion Criteria
 
-- item 1
+- inclusion criterial 1
 - item 2
 - item 3
 

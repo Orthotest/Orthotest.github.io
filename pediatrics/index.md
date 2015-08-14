@@ -1,4 +1,4 @@
 ---
-layout: pediatric
+layout: pediatrics
 title: Pediatrics
 ---

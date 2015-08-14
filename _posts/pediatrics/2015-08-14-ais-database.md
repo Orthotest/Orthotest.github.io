@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Collapsed Vertebra
-category: spine
+title: AIS database
+category: pediatrics
 ---
 
 ## Inclusion/Exclusion Criteria

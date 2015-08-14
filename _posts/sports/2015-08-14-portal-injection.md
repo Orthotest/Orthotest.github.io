@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Carpal Tunnel
-category: hand
+title: Portal Injection
+category: sports
 ---
 
 ## Inclusion/Exclusion Criteria
