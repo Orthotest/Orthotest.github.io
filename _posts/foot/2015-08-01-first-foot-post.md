@@ -2,7 +2,6 @@
 layout: post
 title: Sesamoiditis
 category: foot
-tag: foot
 ---
 
 ## Inclusion/Exclusion Criteria

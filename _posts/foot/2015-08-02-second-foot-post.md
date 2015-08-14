@@ -2,7 +2,6 @@
 layout: post
 title: Hallux Rigidus
 category: foot
-tag: foot
 ---
 ## Inclusion/Exclusion Criteria
 

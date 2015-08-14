@@ -4,28 +4,13 @@ layout: default
 
 <article class="page">
   <h1 class="page-title">{{ page.title }}</h1>
-  <h2>Ankle</h2>
   {% for post in site.categories.foot %}
-    {% if post.tags contains 'ankle' %}
-    <a href="{{ site.baseurl }}{{ post.url }}">
-      <article class="post box">
-        <h2 class="post-title">
-            {{ post.title }}
-        </h2>
-      </article>
-    </a>
-    {% endif %}
-  {% endfor %}
-  <h2>Foot</h2>
-  {% for post in site.categories.foot %}
-    {% if post.tags contains 'foot' %}
-    <a href="{{ site.baseurl }}{{ post.url }}">
-      <article class="post box">
-        <h2 class="post-title">
-            {{ post.title }}
-        </h2>
-      </article>
-    </a>
-    {% endif %}
+  <a href="{{ site.baseurl }}{{ post.url }}">
+    <article class="post box">
+      <h2 class="post-title">
+          {{ post.title }}
+      </h2>
+    </article>
+  </a>
   {% endfor %}
 </article>

@@ -2,7 +2,6 @@
 layout: post
 title: Ankle Fracture
 category: foot
-tag: ankle
 ---
 ## Inclusion/Exclusion Criteria
 
