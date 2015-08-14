@@ -4,11 +4,13 @@ title: DeNOVO Stratified
 category: sports
 ---
 
--Study Contact:  
+## Study Contact:  
 Grant Norte
 434-924-6184
 
--IRB-HSR 16886, Clinic Visit Registration: 16886-Diduch
+## IRB-HSR 16886
+Clinic Visit Registration: 
+16886-Diduch
 
 ##  Inclusion Criteria
 
@@ -17,7 +19,9 @@ Grant Norte
 -Pre-treatment arthroscopic confirmation, (at least one of the following) 
 
 *One or two contained lesion(s) of the femoral condyle, trochlear groove, or patella (ICRS grade 3-4)
+
 -or-
+
 *OCD lesion(s) with healed bone base, non-sclerotic, no loss of bone > 6 mm from surrounding subchondral plate
 
 -Peripheral cartilage debridement to healthy cartilage that results in at least one lesion with an area of > 2 cm2 and ≤ 7.5 cm2
