@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bioment TSA
+title: Biomet TSA
 category: sports
 ---
 
