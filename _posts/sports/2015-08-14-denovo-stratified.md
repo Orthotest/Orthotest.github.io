@@ -30,7 +30,7 @@ Grant Norte
 
 -Contralateral knee is asymptomatic, stable, and fully functional
 
--Refractory to conservative treatment (HA/corticosteroid injection, arthroscopy/debridement/chondroplasty/loose body removal, and > 3 months from 	the start of either treatment
+-Refractory to conservative treatment (HA/corticosteroid injection, arthroscopy/ debridement/ chondroplasty/ loose body removal, and > 3 months from the start of either treatment
 
 -Moderate to Extreme pain indicated for any question of the KOOS-Pain Scale (P2-P9), 
 
@@ -99,5 +99,8 @@ Grant Norte
 
 ## Payment:
 -$50/follow up visit (8 total)
--Complete vendor registration through UVA Procurement at: https://www.procurement.virginia.edu/pagevendorregistrationform
+-Complete vendor registration through UVA Procurement at: 
+
+https://www.procurement.virginia.edu/pagevendorregistrationform
+
 -Contact Sarah Spangler (cc to Grant Norte) with patient name, MRN, DOS, study visit
