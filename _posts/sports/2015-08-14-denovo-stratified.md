@@ -8,8 +8,9 @@ category: sports
 Grant Norte
 434-924-6184
 
-## IRB-HSR 16886
-Clinic Visit Registration: 
+# IRB-HSR 16886
+Clinic Visit Registration:
+
 16886-Diduch
 
 ##  Inclusion Criteria
