@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arthritis
-category: joints
+category: recon
 ---
 
 ## Inclusion/Exclusion Criteria

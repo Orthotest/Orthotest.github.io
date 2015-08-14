@@ -1,4 +1,0 @@
----
-layout: joints
-title: Joints
----

@@ -1,4 +1,0 @@
----
-layout: pediatric
-title: Pediatric
----
