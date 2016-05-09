@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Synvisc-One Injection
+title: ATLAS - Kinespring II study
 category: sports
 ---
 
