@@ -14,29 +14,29 @@ Clinic Visit Registration:
 
 ##  Inclusion Criteria
 
--Age 18-55 years
+- Age 18-55 years
 
--Pre-treatment arthroscopic confirmation, (at least one of the following) 
+- Pre-treatment arthroscopic confirmation, (at least one of the following)
 
-*One or two contained lesion(s) of the femoral condyle, trochlear groove, or patella (ICRS grade 3-4)
+* One or two contained lesion(s) of the femoral condyle, trochlear groove, or patella (ICRS grade 3-4)
 
 -or-
 
-*OCD lesion(s) with healed bone base, non-sclerotic, no loss of bone > 6 mm from surrounding subchondral plate
+* OCD lesion(s) with healed bone base, non-sclerotic, no loss of bone > 6 mm from surrounding subchondral plate
 
--Peripheral cartilage debridement to healthy cartilage that results in at least one lesion with an area of > 2 cm2 and ≤ 7.5 cm2
+- Peripheral cartilage debridement to healthy cartilage that results in at least one lesion with an area of > 2 cm2 and ≤ 7.5 cm2
 
--Lesion(s) to be treated must be contained by surrounding native cartilage > 70% of periphery
+- Lesion(s) to be treated must be contained by surrounding native cartilage > 70% of periphery
 
--Ligaments in affected knee are stable
+- Ligaments in affected knee are stable
 
--Ipsilateral knee compartment has intact menisci (or meniscectomized remnant > 5 mm rim)
+- Ipsilateral knee compartment has intact menisci (or meniscectomized remnant > 5 mm rim)
 
--Contralateral knee is asymptomatic, stable, and fully functional
+- Contralateral knee is asymptomatic, stable, and fully functional
 
--Refractory to conservative treatment (HA/corticosteroid injection, arthroscopy/ debridement/ chondroplasty/ loose body removal, and > 3 months from the start of either treatment
+- Refractory to conservative treatment (HA/corticosteroid injection, arthroscopy/ debridement/ chondroplasty/ loose body removal, and > 3 months from the start of either treatment
 
--Moderate to Extreme pain indicated for any question of the KOOS-Pain Scale (P2-P9), 
+- Moderate to Extreme pain indicated for any question of the KOOS-Pain Scale (P2-P9), 
 
 ##  Exclusion Criteria
 
@@ -70,7 +70,7 @@ Clinic Visit Registration:
 
 -Baseline ≤ 60 days of surgery: Clinic visit (register to grant)
 
--Surgery: Pre-authorize to insurance, Graft is covered by Company 
+-Surgery: Pre-authorize to insurance, Graft is covered by Company
 [MUST NOTIFY COMPANY]
 
 -6 weeks ± 10 days: Clinic visit (register to grant), Research MRI
@@ -91,19 +91,19 @@ Clinic Visit Registration:
 
 *Screening and baseline may be completed during the same visit
 
-## Baseline visit: 
+## Baseline visit:
 -X-ray orders: PA fixed flexion, skyline, lateral 10° NWB, WB AP
 -MRI: done according to standard of care within 12 months of enrollment, not registered to grant
 
-## 12 month visit: 
+## 12 month visit:
 -X-ray orders: PA fixed flexion, skyline, lateral 10° NWB, WB AP
 
-## 24 month visit: 
+## 24 month visit:
 -X-ray orders: PA fixed flexion, skyline, lateral 10° NWB, WB AP
 
 ## Payment:
 -$50/follow up visit (8 total)
--Complete vendor registration through UVA Procurement at: 
+-Complete vendor registration through UVA Procurement at:
 
 https://www.procurement.virginia.edu/pagevendorregistrationform
 
