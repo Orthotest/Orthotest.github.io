@@ -1,14 +1,13 @@
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+
 
 # Setup
 title:               Ortho Research
 tagline:             Clinical Trials
 url:
-paginate:            1
+# paginate:            1
 baseurl:             ""
 
 # Assets
