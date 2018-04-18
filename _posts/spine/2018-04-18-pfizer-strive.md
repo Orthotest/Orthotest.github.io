@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pfizer Vaccine Trial
+title: Pfizer STRIVE
 category: spine
 ---
 
