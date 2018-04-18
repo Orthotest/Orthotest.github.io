@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AxoGen Nerve Graft
-category: foot
+category: hand
 ---
 
 ## Inclusion Criteria
