@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kinespring
+title: Kinespring SOAR
 category: sports
 ---
 
