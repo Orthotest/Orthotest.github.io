@@ -1,10 +1,16 @@
 ---
 layout: post
-title: METRC&#58 VANCO
+title: METRC VANCO
 category: trauma
 ---
 
-## Inclusion/Exclusion Criteria
+## Inclusion Criteria
+
+- item 1
+- item 2
+- item 3
+
+## Exclusion Criteria
 
 - item 1
 - item 2
@@ -20,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ## Contact
 
-Firstname Lastname
+Eric McVey
 
 Address
 
