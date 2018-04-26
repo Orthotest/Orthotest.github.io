@@ -7,37 +7,54 @@ category: hand
 ## Inclusion Criteria
 
 - Subjects 18 to 65 years of age, inclusive; 
-•	Require primary or secondary nerve injury repair with nerve cuff (NeuraGen® Nerve Guide a Type 1 bovine collagen nerve cuff) or Avance® Nerve Graft in at least 1 digital nerve; 
-•	One of injury to nerve must be resectable; 
-•	Nerve gaps following resection, between 5 and 25 mm, inclusive; 
-•	Undergo tension free end to end nerve to nerve coaptation on both the proximal and distal portion of the nerve gap in the Avance® Nerve Graft Group or nerve entubulation in the Nerve Cuff group; 
-•	Have an uninjured contralateral or adjacent digit that is suitable to serve as a referenced digit for baseline functional assessments; 
-•	Be willing and able to comply with all aspects of the treatment and evaluation schedule over a 12-month duration; and 
-•	Sign and date an IRB-approved written informed consent prior to initiation of any study procedures. 
+- Require primary or secondary nerve injury repair with nerve cuff (NeuraGen® Nerve Guide a Type 1 bovine collagen nerve cuff) or Avance® Nerve Graft in at least 1 digital nerve; 
+- One of injury to nerve must be resectable; 
+- Nerve gaps following resection, between 5 and 25 mm, inclusive; 
+- Undergo tension free end to end nerve to nerve coaptation on both the proximal and distal portion of the nerve gap in the Avance® Nerve Graft Group or nerve entubulation in the Nerve Cuff group; 
+- Have an uninjured contralateral or adjacent digit that is suitable to serve as a referenced digit for baseline functional assessments; 
+- Be willing and able to comply with all aspects of the treatment and evaluation schedule over a 12-month duration; and 
+- Sign and date an IRB-approved written informed consent prior to initiation of any study procedures. 
 
 
 ## Exclusion Criteria
 
-- exclusion criteria 1
-- item 2
-- item 3
+- Estimated distance of regeneration of >150 mm (distance from proximal injury site to tip of target digit); 
+-	Injuries distal to the distal interphalengeal joint; 
+-	Extensive soft tissue injury which will impair recovery assessment; 
+-	Incomplete nerve transections; 
+-	Injury requiring replantation of target digit; 
+-	Injuries to the affected nerve proximal to the superficial palmar arch; 
+-	Nerve injuries >24 weeks post initial injury; 
+-	End to side nerve repair; 
+-	Injuries with vascular damage resulting in inadequate perfusion despite repair; 
+-	Subjects with Type 1 Diabetes Mellitus or Type 2 Diabetes Mellitus requiring regular insulin therapy; 
+-	Subjects who are undergoing or expected to undergo treatment with chemotherapy, radiation therapy, or other known treatment which affects the growth of neural and/or vascular system; 
+-	Use of bovine collagen-based nerve conduit in a subject with known or suspected bovine sensitivity; 
+-	History of neuropathy, diabetic neuropathy or any other known neuropathy; 
+-	Currently enrolled in another investigational study; 
+-	Expected use of medication during the study that is known to impact nerve regeneration or to cause peripheral neuropathy; 
+-	History of chronic ischemic condition of the upper extremity; and 
+-	Any subject who at the discretion of the Investigator is not suitable for inclusion in the study. 
 
-## Methods
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Study Summary
 
-## Procedures
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+-	Visit 1: Screening/Baseline assessment  ≤ 42 days preoperatively: Clinic  visit 
+-	Visit 2: Operative day
+-	Visit 3: 1 month ±14 days Clinic visit
+-	Visit 4: 3 months ±14 days Clinic visit
+-	Visit 5: 6 months ±14 days Clinic visit
+-	Visit 6: 9 months ±14 days Clinic visit
+-	Visit 7: 12 months ±14 days Clinic visit
 
 ## Contact
 
 Christiana Booher
 
-Address
+434-243-0296
 
-111-111-1111
+clb6xx@hscmail.mcc.virginia.edu
 
-## Other
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Payment
+-	$50/follow up visit (5 total)
+-	Complete vendor registration through UVA Procurement at: https://www.procurement.virginia.edu/pagevendorregistrationform
