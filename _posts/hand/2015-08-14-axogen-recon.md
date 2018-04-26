@@ -12,6 +12,10 @@ Christiana Booher
 
 clb6xx@hscmail.mcc.virginia.edu
 
+# IRB-HSR 18228
+
+Clinic Visit Registration: 18228-Deal
+
 ## Inclusion Criteria
 
 - Subjects 18 to 65 years of age, inclusive; 
@@ -44,7 +48,6 @@ clb6xx@hscmail.mcc.virginia.edu
 -	History of chronic ischemic condition of the upper extremity; and 
 -	Any subject who at the discretion of the Investigator is not suitable for inclusion in the study. 
 
-
 ## Study Summary
 
 -	Visit 1: Screening/Baseline assessment  ≤ 42 days preoperatively: Clinic  visit 
@@ -54,6 +57,22 @@ clb6xx@hscmail.mcc.virginia.edu
 -	Visit 5: 6 months ±14 days Clinic visit
 -	Visit 6: 9 months ±14 days Clinic visit
 -	Visit 7: 12 months ±14 days Clinic visit
+
+# Baseline Visit
+
+- Consent, Relevant Medical History, Demographics, Sensory Assessments, Pain Assessments (VAS), Quality of Life Questionnaires, CISS, Review Current Treatments
+
+# Surgery Day
+
+- Traumatic Injury History, Operative Information, Randomization, Physician Satisfaction Survey, Economic Questionnaires, Review Current Treatments, Review health-related problems
+
+# 1, 3, 6, 9 month visit
+
+- Sensory Assessments, Pain Assessment (VAS), Quality of Life Questionnaires, Subject Satisfaction Questionnaire, Review Current Treatments, Review heath-realted problems
+
+# 12 month visit
+
+- All of the same as the previous follow-up visits and the Subject Blinding Questionnaire
 
 ## Payment
 -	$50/follow up visit (5 total)
