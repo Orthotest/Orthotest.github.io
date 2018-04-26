@@ -4,6 +4,12 @@ title: AxoGen Nerve Graft
 category: hand
 ---
 
+## Contact
+
+Christiana Booher
+434-243-0296
+clb6xx@hscmail.mcc.virginia.edu
+
 ## Inclusion Criteria
 
 - Subjects 18 to 65 years of age, inclusive; 
@@ -46,14 +52,6 @@ category: hand
 -	Visit 5: 6 months ±14 days Clinic visit
 -	Visit 6: 9 months ±14 days Clinic visit
 -	Visit 7: 12 months ±14 days Clinic visit
-
-## Contact
-
-Christiana Booher
-
-434-243-0296
-
-clb6xx@hscmail.mcc.virginia.edu
 
 ## Payment
 -	$50/follow up visit (5 total)
