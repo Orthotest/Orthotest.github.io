@@ -12,11 +12,11 @@ Christiana Booher
 
 clb6xx@hscmail.mcc.virginia.edu
 
-# IRB-HSR 18228
+## IRB-HSR 18228
 
 Clinic Visit Registration: 18228-Deal
 
-## Inclusion Criteria
+# Inclusion Criteria
 
 - Subjects 18 to 65 years of age, inclusive; 
 - Require primary or secondary nerve injury repair with nerve cuff (NeuraGen® Nerve Guide a Type 1 bovine collagen nerve cuff) or Avance® Nerve Graft in at least 1 digital nerve; 
@@ -27,8 +27,7 @@ Clinic Visit Registration: 18228-Deal
 - Be willing and able to comply with all aspects of the treatment and evaluation schedule over a 12-month duration; and 
 - Sign and date an IRB-approved written informed consent prior to initiation of any study procedures. 
 
-
-## Exclusion Criteria
+# Exclusion Criteria
 
 - Estimated distance of regeneration of >150 mm (distance from proximal injury site to tip of target digit); 
 -	Injuries distal to the distal interphalengeal joint; 
@@ -48,7 +47,7 @@ Clinic Visit Registration: 18228-Deal
 -	History of chronic ischemic condition of the upper extremity; and 
 -	Any subject who at the discretion of the Investigator is not suitable for inclusion in the study. 
 
-## Study Summary
+# Study Summary
 
 -	Visit 1: Screening/Baseline assessment  ≤ 42 days preoperatively: Clinic  visit 
 -	Visit 2: Operative day
@@ -58,22 +57,22 @@ Clinic Visit Registration: 18228-Deal
 -	Visit 6: 9 months ±14 days Clinic visit
 -	Visit 7: 12 months ±14 days Clinic visit
 
-# Baseline Visit
+## Baseline Visit
 
 - Consent, Relevant Medical History, Demographics, Sensory Assessments, Pain Assessments (VAS), Quality of Life Questionnaires, CISS, Review Current Treatments
 
-# Surgery Day
+## Surgery Day
 
 - Traumatic Injury History, Operative Information, Randomization, Physician Satisfaction Survey, Economic Questionnaires, Review Current Treatments, Review health-related problems
 
-# 1, 3, 6, 9 month visit
+## 1, 3, 6, 9 month visit
 
 - Sensory Assessments, Pain Assessment (VAS), Quality of Life Questionnaires, Subject Satisfaction Questionnaire, Review Current Treatments, Review heath-realted problems
 
-# 12 month visit
+## 12 month visit
 
 - All of the same as the previous follow-up visits and the Subject Blinding Questionnaire
 
-## Payment
+# Payment
 -	$50/follow up visit (5 total)
 -	Complete vendor registration through UVA Procurement at: https://www.procurement.virginia.edu/pagevendorregistrationform
