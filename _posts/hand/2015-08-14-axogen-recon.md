@@ -6,9 +6,15 @@ category: hand
 
 ## Inclusion Criteria
 
-- inclusion criteria 1
-- item 2
-- item 3
+- Subjects 18 to 65 years of age, inclusive; 
+•	Require primary or secondary nerve injury repair with nerve cuff (NeuraGen® Nerve Guide a Type 1 bovine collagen nerve cuff) or Avance® Nerve Graft in at least 1 digital nerve; 
+•	One of injury to nerve must be resectable; 
+•	Nerve gaps following resection, between 5 and 25 mm, inclusive; 
+•	Undergo tension free end to end nerve to nerve coaptation on both the proximal and distal portion of the nerve gap in the Avance® Nerve Graft Group or nerve entubulation in the Nerve Cuff group; 
+•	Have an uninjured contralateral or adjacent digit that is suitable to serve as a referenced digit for baseline functional assessments; 
+•	Be willing and able to comply with all aspects of the treatment and evaluation schedule over a 12-month duration; and 
+•	Sign and date an IRB-approved written informed consent prior to initiation of any study procedures. 
+
 
 ## Exclusion Criteria
 
