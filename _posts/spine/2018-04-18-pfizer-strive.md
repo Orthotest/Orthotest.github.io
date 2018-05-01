@@ -55,7 +55,7 @@ clb6xx@hscmail.mcc.virginia.edu
 -	Visit 5: 3 month ± 7 days clinic visit
 -	Visit 6: 6 month ± 7 days clinic visit
 
-## Enrollment and Vaccination (10 to 60 days preoperatively)
+## Enrollment and Vaccination (10 to 60 days preop)
 
 - Informed Consent, demographics, medical history, smoking/alcohol use, medication history, height, weight, vital signs, blood glucose, physical examination, pregnancy test, contraceptive use, review of inclusion and exclusion criteria and protocol
 - Blood draw
@@ -90,13 +90,13 @@ clb6xx@hscmail.mcc.virginia.edu
 - Review e-diary data. Collect e-diary
 - Healthcare utilization data collection
 
-## Telephone call (18 to 26 days postoperatively)
+## Telephone call (18 to 26 days postop)
 
 - Review subject reminders & instructions
 - Monitor for protocol-defined infections
 - Healthcare utilization data collection
 
-## Visit 4 & Visit 5
+## Visit 4 (6 week ± 7 days) & Visit 5 (3 month ± 7 days)
 
 - Blood draw
 - Nasal and oropharyngeal S. aureus colonization swab collection
@@ -105,7 +105,7 @@ clb6xx@hscmail.mcc.virginia.edu
 - Monitor for protocol-defined infections
 - Healthcare utilization data collection
 
-## Visit 6
+## Visit 6 (6 month ± 7 days)
 
 - Blood draw
 - Nasal and oropharyngeal S. aureus colonization swab collection
