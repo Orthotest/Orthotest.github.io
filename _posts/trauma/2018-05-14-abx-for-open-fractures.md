@@ -38,8 +38,8 @@ Clinic Visit Registration:
 
 - Baseline. Pt info, pertinent medical History, xrays (all considered standard of care)
 - Surgery.  Randomized to either 
-  -1. standard of care + saline injection OR 
-  -2. standard of Care + tobramycin injection
+  1. standard of care + saline injection OR 
+  2. standard of Care + tobramycin injection
 - 2 and 6 week follow up.  Standard follow up appointments.  Check for signs of healing and infection.
 
 
