@@ -5,72 +5,57 @@ category: trauma
 ---
 
 ## Study Contact:  
-Kaitlyn Shank
-434-243-5653
+Eric McVey
+434-243-5382
 
-### IRB-HSR 20607
+### IRB-HSR 17432
 Clinic Visit Registration:
-20607
+17432-Weiss
 
 ##  Inclusion Criteria
-
--	Possibly has a multiple ligament knee grade III injury of 2 or more ligaments
--	Is at least 16 years of age and no more than 55 years of age
+- Patients with any fractures of any bone at or proximal to and including the tarsal/metatarsal joint (Lisfranc) or proximal to the carpal joints (includes distal radius fractures), excluding the spine, treated with any type of internal fixation, or
+- Patients undergoing fusion of any bone at or proximal to and including the subtalar joint or radial carpal joint, (excluding the spine) that develop a post op wound infection at any time.
+- Patients diagnosed with a wound infection of the study injury, defined as deep culture positive after operative debridement
+- Patients who are English or Spanish competent.
+- Patients aged 18 – 84.
+- Patients with bacteria susceptible to both PO and IV antibiotics.
+- Patients able to be treated for their infection at the METRC facility for at least 12 months following definitive surgical procedure
+- Patients may have multiple eligible study-eligible injuries.
+- Patients may have temporary external fixation prior to definitive fixation.
+- Patients may have received antibiotics prior to operative wound debridement.
+- Patient is able to obtain study medication(s).
+- Patient may be pregnant at the time of screening.
 
 ##  Exclusion Criteria
 
--	Presents for treatment 6 weeks or more from injury
--	Prior ligament surgery of involved knee
--	Patellar or quadriceps tendon tear or avulsion
--	Periarticular fracture that requires surgical reduction and fixation
--	Use of external fixator to maintain reduction of knee or soft tissue / open wound management for greater than 10days
--	Inability to bear weight on contralateral leg
--	Traumatic Brain Injury that limits ability to participate in post-operative care
--	Vascular injury that dictates timing of surgery
--	Vascular surgery that precludes early rehabilitation
--	Multiple trauma that precludes performing surgery within 6 weeks of injury
--	Multiple trauma that limits ability to participate in post-operative care
--	Skin or soft tissue injury that precludes early surgery and early rehabilitation
--	Skin or soft tissue injury that precludes earlyweightbearingor range of motion
--	Anticipated surgical procedure that precludes early weight bearing and range of motion
--	Any condition that would preclude ability to comply with post-operative guidelines
+- Patients who have high risk of amputation of the study limb (based on opinion of the initial managing physician).
+- Patients undergoing treatment with any other investigational therapy within the month preceding implantation or planned within the 12 months following implantation.
+- Patients with history of chronic infection at the site of study injury, defined as: patients with chronic osteomyelitis identified by radiographic erosion or sequestrum; or patients with more than one instance of surgical treatment of infection and approximately 6 week course of antibiotics.
+- Patients with pathological fractures; a known history of Paget’s disease.
+- Patients for whom the definitive treatment of the study injury was an external fixator.
+- Patients who are currently on Selective Serotonin Reuptake Inhibitor (SSRI) medication (e.g. Zoloft, Prozac, Celexa), and bacteria is MRSA
+- Patients with cultures positive in thio only.
+- Patients who are incarcerated or who have unstable housing situations due to concerns regarding ability to receive home care, adherence phone calls, and maintain follow up. .
+- Patients or designated proxy who are unwilling to provide consent.
+- Patients with a history of IV drug use who in the investigator’s opinion are unsuitable candidates for IV therapy.
+- Patients likely to have severe problems maintaining follow-up, including patients diagnosed with a severe psychiatric conditions, patients who live too far outside the hospital’s catchment area.
+- Patients with traumatic brain injury or who are intellectually challenged and who lack adequate family support to ensure adherence to the protocol.
+- Patients unable to swallow oral medications or without adequately functioning GI tract.
+- Patients who, based upon the clinical judgment of the treating clinician, are NOT equally suited for treatment with either oral or intravenous antibiotics (i.e., those for whom there is a clinical treatment preference).
 
 ## Study Summary
 
-- Baseline/Screening: Consent, inclusion/exclusion, PROs
-- Surgery:  Randomization to early or late rehab
-
-- Standard of Care Follow Ups:
-  - 1 week: knee exam, AEs, concomitant medications, patient reported rehab compliance
-  -	1 month: knee exam, AEs, concomitant medications, patient reported rehab compliance
-  -	3 month: knee exam, AEs, concomitant medications, patient reported rehab compliance
-  -	6 month: knee exam, AEs, concomitant medications, patient reported rehab compliance
-  -	9 month: knee exam, AEs, concomitant medications, patient reported rehab compliance
-  -	12 month: knee exam, AEs, concomitant medications, patient reported rehab compliance
-
-- Research Follow Ups (emailed to patients from Pitt):
-  -	Monthly from 6 months-24 months (online questions  of sport and work participation)
-  -	6, 12, and 24 month- online physical function and health related quality of life PROs
+- Baseline.  Performed as close to discharge from hospital as feasible
+- Week 1- lab tests prn, Vanderbilt call center phone call to pt.
+- Week 2 – clinic visit, lab tests prn, Vanderbilt call center phone call to pt., clinic follow up form
+- Week 3-5 - lab tests prn, Vanderbilt call center phone call to pt.
+- Week 6 - clinic visit, lab tests prn, Vanderbilt call center phone call to pt, clinic follow up form.
+- Weeks 12, 26 –clinic visit, ongoing Med hx, clinic follow up form
+- Week 52 -  clinic visit, ongoing Med hx, clinic follow up form, Surveys
 
 
 ## Payment
-$400 total
 
-- The payment schedule will be as follows by investigators at this institution: 
-	- Informed Consent & Screening -- $70 
-	- Baseline Study Questionnaires -- $35 
+Complete vendor registration through UVA Procurement at: https://www.procurement.virginia.edu/pagevendorregistrationform
 
-- The payment schedule will be as follows by investigators at the University of Pittsburgh: 
-	- Follow-up study Questionnaires 
-		- 6-months after surgery -- $35 
-		- 12-months after surgery-- $35 
-		- 24-months after surgery -- $35 
-	- Survey of Rehabilitation Activities 
-		- 1-month after surgery -- $10 
-		- 3-months after surgery -- $10 
-		- 6-months after surgery -- $10 
-	- Return to Activity Survey 
-		- 7-11 months after surgery & 13-23 months after surgery -- $10 each time the survey is 		completed.
-
-## Covered Expenses
-Procedures are standard of care.  Patient will not be charged for the questionnaires (which is the only procedures being done strictly for research).
+Contact Sarah Spangler (cc Eric McVey) with patient name, MRN, DOS, study visit
