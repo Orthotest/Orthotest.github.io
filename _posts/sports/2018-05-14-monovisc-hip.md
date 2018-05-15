@@ -14,7 +14,7 @@ Clinic Visit Registration:
 
 ##  Inclusion Criteria
 
-- > 30 years old
+- age > 30 years old
 - BMI < 35
 - Clinical diagnosis of hip OA with Kellgren-Lawrence grade 2 or 3
 - Walking NRS pain score > 4 and < 8
