@@ -6,7 +6,10 @@ category: trauma
 
 ## Study Contact:  
 Eric McVey
+
 434-243-5382
+
+emcvey@virginia.edu
 
 ### IRB-HSR 17432
 Clinic Visit Registration:
