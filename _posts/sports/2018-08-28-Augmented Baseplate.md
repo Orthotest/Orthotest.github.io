@@ -53,4 +53,4 @@ $325 total
 
 ## Covered Expenses
 - Covered by patient/insurance: Baseline visit and x-rays, surgery and implant, 6-week visit, 6-month visit and x-rays, 1-year visit and x-rays
-- Covered by study: 6-week x-rays, all visit costs at 2-10 year visits
+- Covered by study: 6-week x-rays, all visit and x-ray costs at 2-10 year visits
