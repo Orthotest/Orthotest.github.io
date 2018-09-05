@@ -64,3 +64,6 @@ $400 total
   - Early Rehab: WBAT, unrestricted motion in ROM brace
   - Delayed Rehab: Brace locked in extension, no knee joint motion, NWB 
 - After 4 weeks: no difference between groups
+
+## Covered Expenses
+- Procedures are standard of care. Patient will not be charged for the questionnaires (which is the only procedures being done strictly for research)
