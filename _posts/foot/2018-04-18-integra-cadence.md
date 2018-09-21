@@ -6,13 +6,13 @@ category: foot
 
 ### IRB-HSR 20141
 
-## Study Contact:  
 
-Revay Corbett 
+## Study Contact
 
-434-243-0246
+<a href="mailto:MMS4AW@hscmail.mcc.virginia.edu">Maddy Smart
 
-mailto:roc2ab@hscmail.mcc.virginia.edu
+434-243-0256
+
 
 ##  Inclusion Criteria
 
