@@ -54,8 +54,6 @@ category: foot
 
 ### Visit 1: Screening/Baseline (will take about 60-90 minutes to complete)
 
-If you decide to be in this study, you will read and sign this consent form before any study related procedures take place 
-
 The following procedures/assessment will be done solely for research purposes:
 - Complete study questionnaires that will ask you about your level of pain, your daily activities, physical function, and quality of life.  The questionnaires will take about 20 minutes to complete. 
 
@@ -87,3 +85,10 @@ You are being invited to participate because you have been diagnosed with ankle 
 Note:  The Integra® Cadence™ Total Ankle System (CTAS) is being implanted as part of your clinical care.  The research aspect of this study is the evaluation of the CTAS over the next two (2) years.  This evaluation will include completion of study questionnaires for research.  All x-rays will be done as a part of your clinical care and the results will be recorded for research purposes.
 
 ## Payment:
+
+-Up to $300 at completion of study
+-$50 per visit begining at the 3 month
+
+## Other
+
+-Epic smartphrase: .cadencefu or .cadenceconsent
