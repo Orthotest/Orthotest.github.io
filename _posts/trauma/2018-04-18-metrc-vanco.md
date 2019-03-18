@@ -5,11 +5,11 @@ category: trauma
 ---
 
 ## Study Contact:  
-Eric McVey
+Ashley Byrne
 
-434-243-5382
+434-243-0289
 
-emcvey@virginia.edu
+AEB6Q@hscmail.mcc.virginia.edu
 
 ### IRB-HSR 19012
 Clinic Visit Registration:
@@ -58,4 +58,4 @@ $50.00 will be paid after the 6 month appointment.
 
 Complete vendor registration through UVA Procurement at: https://www.procurement.virginia.edu/pagevendorregistrationform
 
-Contact Sarah Spangler (cc Eric McVey) with patient name, MRN, DOS, study visit
+Contact Sarah Spangler (cc Ashley Byrne) with patient name, MRN, DOS, study visit
