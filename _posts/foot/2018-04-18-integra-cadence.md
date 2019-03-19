@@ -75,12 +75,11 @@ The following procedures will be done as part of your clinical care as follow-up
 
 ## Purpose
 
-The purpose of this study is to evaluate the Integra® Cadence™ Total Ankle System (CTAS) in subjects who are having ankle arthroplasty as part of their clinical care.  Total ankle arthroplasty (TAA), also known as total ankle replacement (TAR), is a surgical procedure that orthopaedic foot and ankle surgeons use to treat ankle arthritis. Arthritic changes may be a result of normal wear and tear due to aging or from an injury such as a broken ankle or dislocation. Arthritis eventually leads to loss of cartilage, pain and/or deformity.
+The purpose of this study is to evaluate the Integra® Cadence™ Total Ankle System (CTAS) in subjects who are having ankle arthroplasty as part of their clinical care.  
  
 The Integra® Cadence™ Total Ankle System (CTAS) is designed to treat ankle arthritis through replacement of the ankle joint with a prosthesis, thereby reducing pain, restoring alignment, and allowing for movement at the replaced joint.
 
-The Integra® Cadence™ Total Ankle System (CTAS) is approved and cleared by the Food and Drug Administration(FDA) to treat ankle arthritis (pain resulting from inflammatory arthritis, or joint deformity often caused by injury to the ankle joints) through total replacement of the ankle joint with a prosthesis (artificial joint). This is a post market/approval study.  This means that the FDA has required the sponsor to conduct this study to help assure continued safety and effectiveness of the approved device.  
-You are being invited to participate because you have been diagnosed with ankle arthritis and your doctor has chosen to perform surgery to treat your ankle arthritis through total replacement of the ankle joint with the Integra® Cadence™ Total Ankle System (CTAS) 
+The Integra® Cadence™ Total Ankle System (CTAS) is approved and cleared by the Food and Drug Administration(FDA) to treat ankle arthritis through total replacement of the ankle joint with a prosthesis. This is a post market/approval study.  This means that the FDA has required the sponsor to conduct this study to help assure continued safety and effectiveness of the approved device.  
 
 Note:  The Integra® Cadence™ Total Ankle System (CTAS) is being implanted as part of your clinical care.  The research aspect of this study is the evaluation of the CTAS over the next two (2) years.  This evaluation will include completion of study questionnaires for research.  All x-rays will be done as a part of your clinical care and the results will be recorded for research purposes.
 
@@ -88,6 +87,10 @@ Note:  The Integra® Cadence™ Total Ankle System (CTAS) is being implanted as 
 
 -Up to $300 at completion of study
 -$50 per visit begining at the 3 month
+
+## Covered Expenses:
+
+-10 year visit
 
 ## Other
 
