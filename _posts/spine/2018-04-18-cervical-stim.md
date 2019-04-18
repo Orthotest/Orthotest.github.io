@@ -54,6 +54,8 @@ X-Rays
 - Flexion & Extension: 12 month visit
 CT Scan
 - 12 month visit
+DXA Scan 
+- Pre-op and 12 month visit
 
 ## Payment
 
