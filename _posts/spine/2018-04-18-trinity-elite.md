@@ -16,10 +16,8 @@ clb6xx@hscmail.mcc.virginia.edu
 
 - Subject must be 18 years of age (≥ 18 years) or older at the time of consent. 
 - Subject must be a candidate for lumbar fusion study. The approach is at the physician’s discretion 
-- Subject may have up to a Grade 2 spondylolisthesis of the lumbar spine. 
 - Subject must require lumbar posterolateral arthrodesis at 1-4 contiguous levels (L1-S1) for a PLF approach and 1-2 contiguous levels for an interbody approach 
 - Subject must have been unresponsive to conservative care for at least 6 months prior to fusion surgery. 
-- Subject must agree not to use electromagnetic adjuncts to enhance bone fusion during the course of the study. 
 - Subject must be willing and able to sign an informed consent document. 
 - Subject must be willing and able to return for all follow-up visits, agree to participate in postoperative clinical and radiographic evaluations and comply with the required study regimen. 
 
@@ -27,7 +25,6 @@ clb6xx@hscmail.mcc.virginia.edu
 
 - Subject is under 18 years of age (<18) at the time of consent. 
 - Subject has had prior lumbar spine fusion at the level currently scheduled for surgery. 
-- Subject has greater than grade 2 spondylolisthesis of the lumbar spine. 
 - Subject is currently undergoing treatment for malignancy or has undergone treatment for malignancy within the past 5 years (benign skin cancer permitted).
 - Subject is pregnant or nursing or planning to become pregnant during the 2 years (24 months) following arthrodesis. 
 - Subject has an active local or systemic infection or is undergoing adjunctive treatment for local or systemic infection. 
