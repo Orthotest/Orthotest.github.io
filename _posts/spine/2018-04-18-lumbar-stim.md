@@ -54,6 +54,8 @@ X-Rays
 - AP, Lateral, Flexion, Extension: 6 month and 12 month visits
 CT Scan
 - 12 month visit
+DXA Scan
+- Pre-op and 12 month
 
 ## Payment
 
