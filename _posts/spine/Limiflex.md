@@ -1,0 +1,98 @@
+---
+layout: post
+title: Limiflex
+category: spine
+---
+
+## Study Contact:  
+Christiana Booher
+434-243-0296
+
+### IRB-HSR 19403
+Clinic Visit Registration:
+21438-Hassanzadeh
+
+##  Inclusion Criteria
+
+- Lumbar degenerative spondylolisthesis (Grade I per Meyerding classification), at one level from L1 to S1, with radiographic confirmation using X-ray. 
+      *** Grade I spondylolisthesis per Meyerding classification includes up to 25% anterior translation of a vertebra relative to the          superior endplate of the subjacent vertebra at the index level. A patient is considered to have spondylolisthesis with a minimum        10% anterolisthesis at the affected level in a lateral x-ray image.
+- Lumbar spinal stenosis requiring decompression at up to two contiguous levels from L1 to S1, inclusive of the level diagnosed with degenerative spondylolisthesis, and confirmed radiographically using CT or MRI.  
+      *** At the index level, lumbar spinal stenosis is at least moderate lumbar canal stenosis, defined as more than 25% reduction of          the canal cross-sectional area compared with the next adjacent normal level, with nerve root crowding compared with the normal          level, as determined by the investigator on CT Scan or MRI.
+- Neurogenic claudication or radiculopathic symptoms including leg pain, muscle weakness, and/or sensation abnormality, with or without back pain as evidenced by patient history
+- Persistent symptoms despite at least 3 months of conservative treatment that may include but is not limited to physical therapy, medications, and/or epidural injections
+- A pre-operative Visual Analog Scale (VAS) leg pain score of ≥50 on a 100 mm scale; * Leg pain includes hip and/or buttock pain on the same side
+- A pre-operative Oswestry Disability Index (ODI) score ≥35 points on a 100-point scale
+- Candidate for surgical decompression at a single level or two contiguous levels, with stabilization at only one level between L1-S1
+- Posterior element anatomy is appropriate for interspinous fixation including prediction of presence of spinous processes of segment to be instrumented following decompression (investigational AND control groups) and a prediction of >50% of facet joints present following decompression (investigational group only)
+- 25-80 years of age and skeletally mature
+- Patient has the necessary mental capacity to participate and is willing and able to participate in the study for the duration of the study follow-up and is able to comply with study requirements
+- Patient is willing and able to provide Informed Consent for study participation.
+
+
+##  Exclusion Criteria
+
+- A primary and predominate diagnosis of discogenic back pain
+- A primary and predominate diagnosis of facet-mediated back pain
+- Back or non-radicular leg pain of unknown etiology
+- Significant peripheral vascular disease causing vascular claudication
+- Significant peripheral neuropathy caused by conditions other than spinal stenosis
+- History of fixed or permanent neurologic deficit related to spinal cord injury
+- History of any previous surgery* at any level in the lumbosacral spine except for a discectomy or decompression
+- History of any previous surgery* at the level(s) planned for treatment; 
+      *previous surgery includes spinal stimulator placement but does NOT include epidural injections, rhizotomy or nerve ablation
+- Isthmic spondylolisthesis or spondylolysis (pars fracture) at any level in the lumbar spine
+- Clinically significant compromise of vertebrae at L1 to S1 levels due to osteoporotic vertebral compression fracture or any traumatic, neoplastic, metabolic or infectious pathology or congenital abnormality
+- Spinous process fracture(s) or other posterior element fracture(s) of the segment to be instrumented
+- Spinous process insufficiency or deformity that would preclude secure fixation of the LimiFlex Device to the spinous process including spinous process length <10 mm from lamina to dorsal tip or other significant deformity due to trauma, or congenital abnormality such as spina bifida occulta at the planned instrumented level
+- The estimated distance between the LimiFlex Device strap attachment points (midpoint of the cranial edge of the cranial spinous process and the midpoint of the caudal edge of the caudal spinous process) is <30mm on pre-operative lateral standing radiographs at the segment to be instrumented
+- Degenerative lumbar scoliosis with a Cobb angle >10° at the affected motion segment
+- Symptomatic lumbar stenosis that is not amenable to a direct decompression
+- Anklyosed motion segment at the target operative level
+- Severe osteoporosis, defined as history of fragility fracture and DXA T-score <-2.5 or QCT T-score < 80mg/cubic cm. History of a fragility fracture requires that a DXA scan or QCT scan is completed
+- Planned hip or knee replacement surgery, severe osteoarthritis or other musculoskeletal pathology of the hip or leg that could preclude reliable patient self-reporting assessment scales and/or that would likely progress to surgery during study period
+- Documented allergy to titanium or polyethylene
+- Active local or systemic infection
+- Receiving immunosuppressive or long-term steroid therapy
+- Known history of bone metabolic disorder, including Paget’s disease, hyperparathyroidism, renal osteodystrophy, and osteomalacia
+- Disease or condition that would preclude accurate clinical evaluation of the safety and effectiveness of the study treatment or any significant medical conditions which would place the patient at excessive risk for surgery, such as:
+        a. severe rheumatoid arthritis or other autoimmune disease
+        b. active hepatitis (viral or serum) or HIV positive
+        c. unstable cardiac disease
+        d. uncontrolled diabetes
+        e. renal failure
+        f. severe muscular, neural or vascular diseases that endanger the spinal column
+        g. cauda equina syndrome
+        h. severe neurologic disorders including paralysis
+        i. systemic lupus erythematosus
+- Active malignancy or history of metastatic malignancy within the last five years
+- Women who are pregnant or are interested in becoming pregnant within the study period
+- Currently seeking or receiving worker’s compensation for back pain or spinal condition
+- Currently involved in spinal litigation that potentially is associated with secondary financial gain
+- Current involvement in a study of another investigational product for similar purpose
+- Demonstrates three or more Waddell’s Signs of Inorganic Behavior
+- Active treatment of a major psychiatric condition, such as major depression, anxiety disorder, bipolar disorder, schizophrenia, personality disorder, that could prevent accurate completion of self reporting assessment scales
+- Current history (within 12 months) of substance abuse, including alcohol abuse
+- A prisoner
+
+
+## Study Summary
+
+- Screening Visit: X-Rays ≤ 2 months prior to surgery, CT or MRI ≤ 6 months prior to surgery
+- 6 Week Follow-up (± 2 weeks)
+- 3-month Follow-up (± 3 weeks)
+- 6-month Follow-up + X-Rays (±2 months)
+- 12-month Follow-up + X-Rays (± 3 months)
+- 24-month Follow-up + X-Rays (± 3 months)
+
+## Payment
+$775 total given if all visits are completed
+- Screening visit: $75.00
+- 6 week follow-up: $75.00
+- 3 month follow-up: $75.00
+- 6 month follow-up: $150.00
+- 12 month follow-up: $150.00
+- 24 month follow-up: $250.00
+
+
+## Covered Expenses
+- Study covers all X-Rays, Imaging, and medical testing collected only for research purposes
