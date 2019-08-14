@@ -15,16 +15,16 @@ Clinic Visit Registration:
 ##  Inclusion Criteria
 
 - Male or female subjects between the ages of 30 to 75 years
-- Body Mass Index < 40 (BMI=kg/m2)
+- Body Mass Index ≤ 40 (BMI=kg/m2)
 - Has experienced pain in study knee for at least 3 months
-- Kellgren-Lawrence grade 1-3 Osteoarthritis in the study knee
+- Kellgren-Lawrence grade 1-3 Osteoarthritis as reviewed on preoperative XR imaging, in the study knee,
   - Grade 0: no radiographic features of OA are present
   - Grade 1: doubtful joint space narrowing (JSN) and possible osteophytic lipping
   - Grade 2: definite osteophytes and possible JSN on anteroposterior weight-bearing radiograph
   - Grade 3: multiple osteophytes, definite JSN, sclerosis, possible bony deformity
   - Grade 4: large osteophytes, marked JSN, severe sclerosis and definite bony deformity with complete loss of joint space (bone-on-bone) or subchondral bone collapse
 - BML is confirmed on T2 weighted or Proton Density MR Imaging by presence of white signal
-- Single BML of tibia, single BML of femur, or adjoining BML’s of tibia & femur extending to the articular surface of the joint
+- Single BML of tibia, single BML of femur, or adjoining BML’s of tibia & femur, in the same compartment, extending to the articular surface of the joint
 - Surgical candidate for knee arthroscopy due to mechanical symptoms, meniscus tear, loose body and/or synovitis
 - Must record a response, at the preoperative study visit, of moderate to extreme pain for any one of the KOOS Pain Scale questions, P2 through P9
 - Index knee alignment is defined radiographically as one of the following: Neutral, ≤ 6° mechanical varus, or ≤ 6° mechanical valgus
@@ -32,7 +32,7 @@ Clinic Visit Registration:
 - The contralateral (non-study) knee is stable and functional
 - Is refractory to conservative non-surgical management
   - having failed 2 or more of the following: hyaluronic acid injection, corticosteroid injection, NSAIDs, physical therapy, bracing, activity modification, or minimal surgical intervention (e.g., arthroscopy, debridement/chondroplasty, and/or loose body removal)
-  - and is ≥ 3 months from the start of treatment
+  - and is ≥ 3 months from the start of treatment (these treatments can continue up to the time of the randomized procedure; preoperative injections to be completed per protocol)
 - Must be physically and mentally willing and able, in the Investigator’s opinion at the time of enrollment, to be compliant with the protocol - including all follow-up visits, survey completion, weight-bearing restrictions, and post-operative rehabilitation
 
 ##  Exclusion Criteria
@@ -45,13 +45,13 @@ Clinic Visit Registration:
   - Has more than two clinically relevant BMLs in the index knee
   - Osteochondritis dissecans of the knee with significant bone loss
   - Collapse of subchondral bone
-  - BML located at ACL/PCL insertion
+  - Clinically relevant BML located at ACL/PCL insertion
   - MRI evidence of frank ligament instability
 - Passive knee flexion < 110° or flexion contracture >30°
-- History of secondary arthropathies (i.e., sickle cell disease, hemochromatosis, or autoimmune disease)
+- History of systemic diseases which could contribute to secondary arthropathies (eg., sickle cell disease, hemochromatosis, or autoimmune disease)
 - Has a neuromuscular, neurosensory, or musculoskeletal deficiency that limits the ability to perform objective functional assessment of either knee
 - If diabetic, blood glucose over 200 mg/dL at time of enrollment
-- Current smoker or < 3months from smoking cessation
+- Current daily tobacco or high nicotine product user or < 3months from nicotine cessation
 - Presents a high surgical risk due to unstable cardiac and/or pulmonary disease
 - Has HIV or other immunodeficient state including subjects on immunosuppressant therapies, or has significant illness (metastasis of any type) that decreases the probability of survival to the 2 year endpoint
 - Is at substantial risk for the need of organ transplantation, such as renal insufficiency
@@ -60,11 +60,11 @@ Clinic Visit Registration:
 - Has primary bone tumor in the knee area
 - Anticipates having a lower extremity surgery other than the investigational surgery during the course of the study
 - Is participating concurrently in another clinical trial, or has participated in a clinical trial within 30 days of surgery
-- Is receiving prescription pain medication other than NSAIDs or acetaminophen for conditions unrelated to the index knee condition, chronic use of anticoagulants, or taking corticosteroids
+- Is receiving prescription pain medication other than NSAIDs or acetaminophen for conditions unrelated to the index knee condition, chronic use of anticoagulants, or taking oral or inhaled corticosteroids
 - Active joint infection or history of chronic joint infection at the surgical site
 - Prior total meniscectomy of index knee
 - Has primarily patellofemoral symptoms
-- Is indicated for concomitant procedures (i.e., microfracture, subchondral drilling, cartilage allograft, ligament or tendon repair, distal realignment/osteotomy) in the index knee, with the exception of incidental loose body removal, debridement, synovectomy, osteophyte removal in locations other than adjacent to BMLs, and/or partial meniscectomy
+- Is indicated for concomitant procedures (i.e., microfracture, subchondral drilling, cartilage allograft, ligament or tendon repair, distal realignment/osteotomy, root repair) in the index knee, with the exception of incidental loose body removal, debridement, synovectomy, osteophyte removal in locations other than adjacent to BMLs, and/or partial meniscectomy
 - Has contraindications for Magnetic Resonance Imaging (MRI)
 - Is receiving worker’s compensation or is currently involved in litigation relating to the index knee
 - Has a history of substance abuse
