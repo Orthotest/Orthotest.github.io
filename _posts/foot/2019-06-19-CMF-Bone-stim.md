@@ -4,9 +4,9 @@ title: CMF Bone Stim
 category: foot
 ---
 
-### IRB-HSR 20532
+### IRB-HSR 21085
 - registration for research visits: 
-- 20185-Cooper
+- 21085-Cooper
 
 ## Contact
 
@@ -26,73 +26,167 @@ category: foot
     - Less than 2mm of displacement of the medial malleolus in any direction
     - Less than 2mm of lateral displacement of the distal end of the fibula at the fracture
     - Less than 5mm of posterior displacement of the distal end of the fibula
-7. Less than 25% of the anteroposterior length of the tibial articular surface, as seen on the lateral radiograph, included in the posterior fracture fragment, or less than 2mm of diplacement of a posterior fragment that includes more than 25% f the anterior-posterior length of the articular surface. 
+7. Less than 25% of the anteroposterior length of the tibial articular surface, as seen on the lateral radiograph, included in the posterior fracture fragment, or less than 2mm of diplacement of a posterior fragment that includes more than 25% of the anterior-posterior length of the articular surface. 
 
 
 ## Exclusion Criteria
 
 1. Subject has an open fracture
-2. Subjet has any additional fractures of another bone
-3. surgical stabilization was definitively performed with an external fixation system
+2. Subjet has any additional fractures of another bone besides the ankle fracture that is to be treated in the study, including the contralateral ankle
+3. Surgical stabilization was definitively performed with an external fixation system
+4. Surgical stabilization was performed in such a manner that it will result inm a fusion of the ankle joint
+5. Malreduced Ankle as described by Phillips, et al 1985 JBJS (ref 1)
+6. The surgical procedure included the use of osteoinductive materials (including, but not limited to, bone marrow aspirate, illiac crest autograft, demineralized bone matrix, bone morphogenetic protein) in addition to rigid fixation
+7. Subject is unable or unwilling to comply with post-operative non-weight bearing restrictions or protocol requirements
+8. Subject was taking antibiotics for an active infection at the time of surgical stabilization
+9. Subject has history of a prior superficial or deep infection in either foot or ankle
+10. Subject has inability to perceive at least one response to a 5.07/10g Semmes Weinstein monofilament examination performed on the plantar aspects of the great toe, third metatarsal, and fifth metatarsal (ref. 5)
+11. Subject has an arthroplasty device in the ankle or ankle fusion at the time of fracture
+12. Subject will be treated with any other bone stimulation device besides the OL1000
+13. Subject is currently pregnant or planning on becoming pregnant in the next year
+14. Subject has been diagnosed with or has a history of bi-polar disorder, schizophrenia, suicidal ideation, post traumatic stress disorder, senile dementia or Alzheimer’s disease
+15. Subject has an active history of systemic malignancy
+16. Subject has untreated malignant neoplasm(s) or is currently undergoing radiotherapy or chemotherapy
+17. Subject is a prisoner
+18. Subject is on a known bone building medication such as parathyroid hormone
+19. Subject has co-morbidity that reduces life expectancy to less than 36 months
+20. The subject is currently seeking or receiving workman’s compensation for an injury that occurred < 12 months prior to enrollment
+21. The subject has a BMI > 40 kg/m2
+22. The subject is undergoing active treatment of substance abuse (e.g., recreational drugs, narcotics, or alcohol)
+23. Subject has actively participated in another clinical study involving an investigational device, pharmaceutical or biologic within the last 30 days and does not agree to forego participation in other clinical studies for the 12 months following enrollment
+24. Subject has undergone systemic administration within 30 days prior to the fracture of any type of corticosteroid, antineoplastic, immunostimulating or immunosuppressive agents
+25. Subject has active or on-going neoplastic disease, or immunosuppression
+26. Subject is on chronic anticoagulation, or has a bleeding disorder
+27. Subject is on prescription non-steroidal anti-inflammatory, calcium channel blockers and/or diphosphonate therapy
+28. Subject has thrombophlebitis, vascular insufficiency, abnormal skin sensitivity, sensory paralysis, and/or nutritional deficiency
+29. Subject has a fracture secondary to, or in conjunction with, a pathological condition that has not been established
+30. Subject has mental or physical condition that would interfere with post-treatment assessments and care (i.e., neuromuscular disease, psychiatric disease, paraplegia, quadriplegia, etc.)
+31. UNOFFICIAL EXCLUSION CRITERIA OF PACEMAKER
 
 ## Methods
 
-###	Screening/Baseline/Pre-operative
+### Baseline (within 11 days post-op):  
 - Informed consent
+    - UVA Paper followed by Ipad e-consent and video 
 - Review I/E criteria
 - Demographics & Medical history
-- Vitamin D level (order through Clinical Labs if not w/in 3 months)
-- Subjective Questionnaires
-- Foot and Ankle Activity Measures
-- AOFAS hindfoot score
-- Visual Analog Pain Scale
-- VR-12
-- PROMIS
+- Concomitant Medications
+- Work Status
+- Physical Exam
+- Randomization
+- OMAS
+- Adverse Events
 
-### Surgery: 
-- Surgical images (reviewed by all investigators)
-- All surgeries will be performed a fellowship trained Orthopaedic foot and ankle surgeon.  
-- Surgery and Discharge details
-- Amount of ViviGen used
+#### 2 Weeks post baseline
+- Physical Exam
+- ConMeds
+- X-rays
+    - High quality AP, Lateral, Mortise of the ankle will be obtained
+- OMAS
+- Cast/Boot changes
+- Patient satisfaction
+- Clinical Healing
+    - Defined as minimal tenderness at the fracture site on palpation, and ability to ambulate 10 steps with the same pre-op ambulatory assist status 
+- Blinding Assessment
+- Adverse Event Collection
 
-### Follow up: 
-#### 2 Weeks post surgery
-- Physical Exam & Evaluation
-- Wound Check  
+#### 4 Weeks post baseline
+- Physical Exam
+- Conmeds
+- OMAS
+- Weight Bearing Status
+- Cast/Boot Changes
+- Patient Satisfaction
+- Clinical Healing
+- Adverse Event Collection
 
-#### 6 Weeks post surgery
-- Physical Exam & Evaluation
+#### 6 Weeks post baseline
+- Physical Exam
+- Conmeds
 - Xray
-
-#### 3 months post-surgery
-- Physical Exam & Evaluation
-- Xray
-- CT scan
+- Work Status
+- OMAS
+- Weight Bearing Status
+- Cast/Boot Changes
+- Patient Satisfaction 
+- Clinical Healing
+- Advesre Event collection
 - Subjective Questionnaires (Same as baseline)
 
-#### 6 months post-surgery
-- Physical Exam & Evaluation
-- Vitamin D level
-- Xray
-- CT scan
-- Subjective Questionnaires (Same as baseline)
+#### 8 Weeks post baseline
+- Physical Exam
+- Conmeds
+- Work Status
+- OMAS
+- Weight Bearing Status
+- Cast/Boot Changes
+- Patient Satisfaction
+- Clinical Healing
+- Adverse Event Collection
 
-#### 12 months post-surgery
-- Physical Exam & Evaluation
-- Xray
-- CT scan ( if >50% arthrodesis was not obtained by 6 months)
-- Subjective Questionnaires (Same as baseline)
+### 10 Weeks post baseline
+- Physical Exam
+- Conmeds
+- Work Status
+- OMAS
+- Weight Bearing Status
+- Cast/Boot Changes
+- Patient Satisfaction
+- Clinical Healing
+- Adverse Event Collection
 
+### 12 Weeks post baseline
+- Physical Exam
+- Conmeds
+- X-rays
+- Work Status
+- OMAS
+- Weight Bearing status
+- Cast/Boot changes
+- Patient Satisfaction
+- Clinical Healing
+- Adverse Event Collection
 
-## Procedures
+### If Clinical Healing has not occurred within 12 weeks
+- Subject continues to be seen in office every 4 weeks up to 12 months or until clinical healing has occurred
 
-#### Xray Order-sets
+### 6 months post baseline
+- Physical Exam
+- Conmeds
+- X-Rays
+- Work Status
+- OMAS
+- Weight Bearing Status
+- Cast/Boot Changes
+- Patient Satisfaction
+- Clinical Healing
+- Adverse Event Collection
 
-#### Clinical Labs
-- Phone number:  
+#### 12 months post baseline
+- Physical Exam
+- Conmeds
+- X-ray
+- Work Status
+- OMAS
+- Weight Bearing Status
+- Cast/Boot Changes
+- Patient Satisfaction
+- Clinical Healing
+- Adverse Event Collection
+- End of Study
 
+## Bi Weekly Home Assessments
+- Occur until clinically healed
+- OMAS
+- Patient Satisfaction
+
+## Payment
+- Subject Compensation: Gift cards of either $50 or $25 every visit
+- $50 for in-office or at home if healed before 12W assessments (on 2, 4, 6, 8, 10, and 12 week visits)
+- $25 at-home assessments (bi-weekly assessments at home and any in-office visits after 12-weeks, if required)
+- 6 and 12 Months $50
 
 ## Other
-
-- Subject Compensation: Gift cards of either $50 or $25 depending on visit
+- Device is worn 30 minutes every day
+- Electromagnetic field of 76.6 Hz
 - EPIC smart phrases: .researchconsent
