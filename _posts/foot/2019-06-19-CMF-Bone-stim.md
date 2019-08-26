@@ -111,7 +111,6 @@ category: foot
 - Patient Satisfaction 
 - Clinical Healing
 - Advesre Event collection
-- Subjective Questionnaires (Same as baseline)
 
 #### 8 Weeks post baseline
 - Physical Exam
