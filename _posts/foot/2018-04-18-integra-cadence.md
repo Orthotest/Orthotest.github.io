@@ -13,6 +13,10 @@ category: foot
 
 434-243-0256
 
+##  Clinic Staff Info
+- Collect Patients weight
+- Questionnaires need to be administered
+
 
 ##  Inclusion Criteria
 
