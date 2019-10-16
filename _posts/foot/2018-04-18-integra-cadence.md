@@ -94,5 +94,5 @@ Note:  The Integra® Cadence™ Total Ankle System (CTAS) is being implanted as 
 
 ## Other
 
--Epic smartphrase: .cadencefu or .cadenceconsent
--Collect weight at every visit
+- Epic smartphrase: .cadencefu or .cadenceconsent
+- Collect weight at every visit
