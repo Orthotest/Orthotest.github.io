@@ -32,7 +32,7 @@ category: foot
 ## Exclusion Criteria
 
 1. Subject has an open fracture
-2. Subjet has any additional fractures of another bone besides the ankle fracture that is to be treated in the study, including the contralateral ankle
+2. Subject has any additional fractures of another bone besides the ankle fracture that is to be treated in the study, including the contralateral ankle
 3. Surgical stabilization was definitively performed with an external fixation system
 4. Surgical stabilization was performed in such a manner that it will result inm a fusion of the ankle joint
 5. Malreduced Ankle as described by Phillips, et al 1985 JBJS (ref 1)
