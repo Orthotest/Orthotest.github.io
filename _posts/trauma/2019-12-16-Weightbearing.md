@@ -44,8 +44,8 @@ Clinic Visit Registration:
 
 ## Study Summary
 
-Multi site study
-- to compare outcomes following early vs delayed wight bearing for adult patients operatively treated for an ankle fracture without syndesmotic fixation.  Additionally, early weight bearing will be tested in patients with unicondylar plateau fractures that do not involve joint impaction in the context of a pilot study.
+Multi center, randomized controlled trial
+- To compare outcomes following early vs delayed wight bearing for adult patients operatively treated for an ankle fracture without syndesmotic fixation.  Additionally, early weight bearing will be tested in patients with unicondylar plateau fractures that do not involve joint impaction in the context of a pilot study.
 
 ## Clinical Follow Ups:
 
