@@ -47,10 +47,10 @@ HSR #190043- Werner
 ## Study Cost Coverage
 
 - The following procedures/tests, which are being done for research purposes, will be provided at no cost to the patient: 
-- Shoulder Exams (and associated clinic visit): 1 year, 2 year, 5 year, 7 year, and 10 year visits
-- X-Rays: 2 year, 5 year, 7 year, and 10 year visits
-- All questionnaires
+  - Shoulder Exams (and associated clinic visit): 1 year, 2 year, 5 year, 7 year, and 10 year visits
+  - X-Rays: 2 year, 5 year, 7 year, and 10 year visits
+  - All questionnaires
 
 - The following are part of your standard of care and will be billed to you/ your health insurance:
-- Shoulder Exams (and associated clinic visit): pre-op and 1 year visits
-- X-Rays: pre-op, 2-6wk, 3 month and 1 year visits
+  - Shoulder Exams (and associated clinic visit): pre-op and 1 year visits
+  - X-Rays: pre-op, 2-6wk, 3 month and 1 year visits
