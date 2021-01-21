@@ -63,4 +63,4 @@ category: sports
 - 6-month: $50 ($25 for visit and PROs, $25 for LEAP test)
 - 12 month: $50 ($25 for visit and PROs, $25 for LEAP test)
 - 24 month: $50 ($25 for visit and PROs, $25 for LEAP test)
--*Incentive payment: if a subject completes all components of the 6, 12, and 24 month visits, they get an extra $50
+-Incentive payment: if a subject completes all components of the 6, 12, and 24 month visits, they get an extra $50
