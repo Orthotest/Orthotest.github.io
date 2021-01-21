@@ -5,10 +5,8 @@ category: sports
 ---
 
 ## Study Contact:  
-Kaitlyn Shank
-434-243-5653
-Lizzie Leitch
-434-243-0256
+- Kaitlyn Shank: 434-243-5653
+- Lizzie Leitch: 434-243-0256
 
 ### HSR# 200234
 
