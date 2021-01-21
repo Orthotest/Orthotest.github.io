@@ -57,6 +57,7 @@ category: sports
 	- Drop Vertical Jump- 6 and 12 month
 
 ## Payment:
+- $290 total
 - Baseline: $50
 - 6-week PROs: $20
 - 12-week PROs: $20
