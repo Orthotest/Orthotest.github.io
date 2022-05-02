@@ -5,9 +5,9 @@ category: trauma
 ---
 
 ## Study Contact:
-- <a href="mailto:AEB6Q@hscmail.mcc.virginia.edu">Ashley Byrne 
-- 434-243-0289
-- Cell: 610-470-5590
+- <a href="mailto:GUS9EY@hscmail.mcc.virginia.edu">Dayna Sawyer
+- 434-243-0246
+- Cell: 217-853-5342
 
 ## IRB-HSR 21994
 Clinic Visit Registration:
@@ -15,13 +15,12 @@ Clinic Visit Registration:
 
 ## Inclusion Criteria
 
-- Adults ages 18-65
+- Adults ages 18 years or older
 - Surgically treated open or closed fractures of the ankle (OTA Codes 44A,B,C) meeting one of the following criteria:
-  - vertical shear medial malleolous with lateral malleolar fracture
-  - bimalleolar fracture requiring medial and lateral fixation
-  - trimalleolar fracture with or without posterior malleolar fixation
-- Ankle dislocations that are definitively fixed
-- Operative treatment of an isolated lower extremity unicondylar tibial plateau fracture (AO/OTA 41B1, Schatzker Type 1 or 4) without joint impaction
+  - Open or closed bimalleolar fracture of any two malleoli (i.e.lateral/medial, medial/posterior, lateral/posterior)
+  - Open or closed bimalleolar equivalent SER4 fractures (lateral malleolus fracture requiring fixation and no medial or posterior malleolus fixation)
+  - Open or closed trimalleolar fracture with fixation of at least two malleoli (i.e.lateral/medial, medial/posterior, lateral/posterior)
+  - Operative treatment of an isolated lower extremity unicondylar tibial plateau fracture (AO/OTA 41B1, Schatzker Type 1 or 4) without joint impaction
 
 ## Exclusion Criteria
 
